@@ -11,3 +11,4 @@ But I had two big advantages, AI and my irresistible will
 <!-- BLOG-POST-LIST:START -->
 salam chetori  
 <!-- BLOG-POST-LIST:END -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
