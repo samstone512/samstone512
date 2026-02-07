@@ -7,3 +7,7 @@ I did not have any knowledge of programing beside every one have in university
 But I had two big advantages, AI and my irresistible will
 [![LinkedIn Badge](www.linkedin.com/in/parsa-samimi-647977254)]
 [![Farmers Market Finder Demo](demo/guts.gif)]
+
+<!-- BLOG-POST-LIST:START -->
+salam chetori  
+<!-- BLOG-POST-LIST:END -->
