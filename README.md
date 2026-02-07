@@ -5,3 +5,4 @@ I am not a programmer, but my story of programming is interesting
 long story short oneday I woke up with an urge to do something with my scattered knowledge and irresistible one 
 I did not have any knowledge of programing beside every one have in university 
 But I had two big advantages, AI and my irresistible will
+[![LinkedIn Badge](www.linkedin.com/in/parsa-samimi-647977254)]
