@@ -13,5 +13,13 @@ salam chetori
 <!-- BLOG-POST-LIST:END -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
-[![YouTube](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)]([https:braydoncoyer.dev](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40Parsa_Samimi?style=social))
+[![YouTube](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40Parsa_Samimi?style=social)
+
+
+https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40Parsa_Samimi?style=social
+
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
