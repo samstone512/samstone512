@@ -29,4 +29,5 @@ salam chetori
     </td>
   </tr>
 </table>
-
+![23697bca327893ec723ba4fc145874f5](https://github.com/user-attachments/assets/1a6d28cb-6989-4d90-bf33-9d3111ea67e2)
+[![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
