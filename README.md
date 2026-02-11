@@ -14,3 +14,4 @@ salam chetori
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/parsa-samimi-647977254)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.youtube.com/@Parsa_Samimi)
 
+![#art_](https://github.com/user-attachments/assets/45fc09f4-8139-481d-905c-a789af7af671)
