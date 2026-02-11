@@ -13,5 +13,20 @@ salam chetori
 <!-- BLOG-POST-LIST:END -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/parsa-samimi-647977254)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.youtube.com/@Parsa_Samimi)
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1> 👋 سلام، من [نام تو] هستم </h1>
+      <h3> یک مهندس مشتاق و توسعه‌دهنده پروژه های خلاقانه </h3>
+      <ul>
+        <li> 🔭 در حال کار روی پروژه‌های پایتون و هوش مصنوعی </li>
+        <li> 🌱 در حال یادگیری ابزارهای جدید اتوماسیون </li>
+        <li> 👯 آماده همکاری در پروژه‌های متن‌باز </li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94eXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9W5RIWpSdVv/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
 
-![#art_](https://github.com/user-attachments/assets/45fc09f4-8139-481d-905c-a789af7af671)
