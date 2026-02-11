@@ -16,7 +16,7 @@ salam chetori
 <table border="0">
   <tr>
     <td width="60%">
-      <h1> 👋 سلام، من [نام تو] هستم </h1>
+      <h1> 👋Hi I AM PARSA </h1>
       <h3> یک مهندس مشتاق و توسعه‌دهنده پروژه های خلاقانه </h3>
       <ul>
         <li> 🔭 در حال کار روی پروژه‌های پایتون و هوش مصنوعی </li>
@@ -24,10 +24,10 @@ salam chetori
         <li> 👯 آماده همکاری در پروژه‌های متن‌باز </li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94eXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9W5RIWpSdVv/giphy.gif" width="300">
+    <td width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94eXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9W5RIWpSdVv/giphy.gif" width="500">
     </td>
   </tr>
 </table>
-![23697bca327893ec723ba4fc145874f5](https://github.com/user-attachments/assets/1a6d28cb-6989-4d90-bf33-9d3111ea67e2)
+
 [![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
