@@ -30,4 +30,6 @@ salam chetori
   </tr>
 </table>
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=samstone512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samstone512&theme=github-compact) 
