@@ -101,12 +101,17 @@
 
  
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samstone512&theme=dark&hide_border=false" alt="GitHub Streak"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=samstone512&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=samstone512&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&show_icons=true" />
+</picture>
  
 
 
