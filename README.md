@@ -17,7 +17,7 @@
 
 - 🤙 So if you wanna know me better, call me🤙, but plz don't talk Chinese🈲, I am still learning😉
   
-## <div align="center"> Connect with me 📬  </div> 
+## Connect with me 📬 
 <div align="center">
 <a href="https://t.me/samstone" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
@@ -36,7 +36,7 @@
 </a>  
 </div>  
 
-## <div align="center"> My Skill Set 🏹 </div> 
+## My Skill Set 🏹
 <table><tr><td valign="top" width="33%">
 
 
@@ -98,7 +98,7 @@
 <br/>  
 
  
-## <div align="center">   📊 GitHub Stats   </div> 
+## 📊 GitHub Stats  
 <div style="text" align="center";>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=samstone512&theme=dark&border_radius=10&background=45%2CFF9714%2C000000" alt="GitHub Streak">
