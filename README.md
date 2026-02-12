@@ -1,12 +1,12 @@
 ![My description](demo/gif-parsa.gif)
 
-<h1> <div align="center"> Hey I Am Parsa  
+# <div align="center"> Hey I Am Parsa  </div> 
   
-</div> 
+
 - 🔭 I’m currently working on my SecondBrain Project
   
 
-- 🌱 I’m Love Learning, currently learning Chinese (我正在学习中文)  
+- 🌱 I Love Learning, currently I'm learning Chinese (我正在学习中文)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
