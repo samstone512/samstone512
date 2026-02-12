@@ -103,12 +103,12 @@
 ## Github Stats  
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false" alt="GitHub Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-<br/>  
+
 
 
 ## Recent Blog Posts  
