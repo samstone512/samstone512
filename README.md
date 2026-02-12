@@ -6,13 +6,16 @@
 - 🔭 I’m currently working on my SecondBrain Project
   
 
-- 🌱 I Love Learning, currently I'm learning Chinese (我正在学习中文)  
+- 🌱 I Love Learning, and currently I'm learning Chinese (我正在学习中文)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Fun fact: I am not a programer I am just using AI to code. People call it **VIBE CODING**, whatever
   
 
-- ⚡ Fun fact: I am not a programer I am just use programing language 
+- ⚡ Despite the fact that my academic degree is in mechanical engineering, I spend most of my life in electronics, robotics technologies and art
+
+
+- 🤙 So if you want to know me better, call me, but don't talk Chinese, I am learning 
   
 
 <br/>  
