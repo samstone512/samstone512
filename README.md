@@ -1,5 +1,5 @@
+![My description](demo/gif-parsa.gif)
 
-![My GIF description](https://drive.google.com/uc?export=view&id=1LoEas2sAK0Aau5LvOUQ2IFZTOUPAFBaB)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
