@@ -1,6 +1,6 @@
 ![My description](demo/gif-parsa.gif)
 
-# <div align="center"> Hey I Am Parsa  </div> 
+# <div align="center"> Hey!👋 I Am Parsa  </div> 
   
 
 - 🔭 I’m currently working on my SecondBrain Project
