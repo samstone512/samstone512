@@ -99,12 +99,12 @@
 
 <br/>  
 
-
-## Github Stats  
+ 
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" > <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false"> <br/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samstone512&theme=dark&hide_border=false" alt="GitHub Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </div>
 
  
