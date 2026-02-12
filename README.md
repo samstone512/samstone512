@@ -101,7 +101,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samstone512&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><![](https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)/></div>  
 
 <br/>  
 
@@ -111,11 +113,7 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=samstone512&&style=flat-square" align="center" />
@@ -127,5 +125,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
