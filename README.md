@@ -3,22 +3,26 @@
 # <div align="center"> Hey!👋 I Am Parsa  </div> 
   
 
-- 🔭 I’m currently working on my SecondBrain Project 🧠
+- 🔭 I’m currently working on my 🧠 SecondBrain Project 
   
 
-- 🌱 I Love Learning, and currently I'm learning Chinese (我正在学习中文)  
+- 🌱 I Love Learning, and currently I'm learning Chinese🧧(我正在学习中文)  
   
 
-- ❓ Fun fact: I am not a programer I am just using AI to code. People call it **VIBE CODING**,👀 whatever 
+- ❓ Fun fact: I am not a programer I am just using AI 🤖 to code. People call it **VIBE CODING**,👀 whatever 
   
 
-- ⚡ Although my academic degree is in 🛠 mechanical engineering, I spend a lot of time learning other stuff as well because I am a polymath person 🧬🩻📸🥋
+- ⚡ Although my academic degree is in 🛠 mechanical engineering, I spend a lot of time learning other stuff as well because I am a polymath person 🧬🩻📸🥋📡
 
 
-- 🤙 So if you wanna know me better, call me🤙, but plz don't talk Chinese🈲, I am still learning
+- 🤙 So if you wanna know me better, call me🤙, but plz don't talk Chinese🈲, I am still learning😉
   
 ## <div align="center"> Connect with me 📬  </div> 
 <div align="center">
+<a href="https://t.me/samstone" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+</div>
 <a href="https://github.com/samstone512" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
