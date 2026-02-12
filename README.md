@@ -16,10 +16,21 @@
 
 
 - 🤙 So if you want to know me better, call me, but don't talk Chinese, I am learning 
-  
-
-<br/>  
-
+## <div align="center"> Connect with me 📬  </div> 
+<div align="center">
+<a href="https://github.com/samstone512" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/parsa-samimi-647977254" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCjZnWKxF5wIZod_KDHaYXUg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/30004096/sam-stone" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -80,27 +91,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samstone512&theme=github-compact) 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/samstone512" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/parsa-samimi-647977254" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCjZnWKxF5wIZod_KDHaYXUg" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/30004096/sam-stone" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
 
  
-## GitHub Stats
+## <div align="center">   📊 GitHub Stats   </div> 
 <div style="text" align="center";>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=samstone512&theme=dark&border_radius=10&background=45%2CFF9714%2C000000" alt="GitHub Streak">
@@ -110,7 +104,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things go well, this section will be replaced by my list of blog posts. 
 <!-- BLOG-POST-LIST:END -->  
 
 
