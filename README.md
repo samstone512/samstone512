@@ -1,4 +1,5 @@
-https://drive.google.com/file/d/1i_Dr4SiFjjw-oSlxOV2NZbjIlQ1lMCvT/view?usp=drive_link 
+
+https://drive.google.com/uc?export=view&id=1LoEas2sAK0Aau5LvOUQ2IFZTOUPAFBaB
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
