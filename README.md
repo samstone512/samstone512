@@ -101,9 +101,12 @@
 
 
 ## Github Stats  
-<div align="center"><![](https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)/></div>  
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=samstone512&theme=dark&hide_border=false" alt="GitHub Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samstone512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 <br/>  
 
@@ -120,8 +123,4 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
   
 
-<br/>  
-
-
-<br />
 
