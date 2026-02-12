@@ -107,7 +107,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samstone512&theme=dark&border_radius=10&background=45%2CFF9714%2C000000)](https://git.io/streak-stats)
 
-<div style="text-align: center;">
+<div style=text align:center;>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=samstone512&theme=dark&border_radius=10&background=45%2CFF9714%2C000000" alt="GitHub Streak">
   </a>
