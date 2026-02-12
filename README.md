@@ -1,8 +1,8 @@
 ![My description](demo/gif-parsa.gif)
 
-<h1> <div align="center"> Hey I Am Parsa </div>  
+<h1> <div align="center"> Hey I Am Parsa  
   
-
+</div> 
 - 🔭 I’m currently working on my SecondBrain Project
   
 
